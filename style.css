@@ -1,0 +1,36 @@
+html, body {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    width:1000px;
+    background-color: chocolate;
+}
+
+button {
+    size: 100px;
+    border: none;
+    margin: 10px;
+    font-size: x-large;
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: gold;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    padding-left: 140px;
+    padding-bottom: 60px;
+    font-size: 30px;
+}
+
+ul.position{
+    padding-left: 150px;
+}
